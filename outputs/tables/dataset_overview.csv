@@ -1,0 +1,9 @@
+metric,value
+Total windows,2887
+Total columns,44
+Input features,38
+Unique subjects,15
+Unique labels,4
+Duplicate rows,0
+Duplicate subject-window pairs,0
+Missing cells,0
