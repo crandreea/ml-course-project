@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+
+# Generated files
+*.log
